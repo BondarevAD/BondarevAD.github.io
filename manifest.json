@@ -1,6 +1,6 @@
 {
-    "name": "marketplace",
-    "short_name": "marketplace",
+    "name": "wff_job",
+    "short_name": "wff_job",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
